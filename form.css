@@ -1,0 +1,153 @@
+body {
+    font-family: Arial, sans-serif;
+    overflow-y: auto;
+    overflow-x: hidden;
+    background-color: rgb(237, 242, 252);}
+
+.main {
+    font-size: 12px;
+    float: right;
+    position: relative;
+    right: 100px;
+    bottom: 15px;
+}
+
+#forgot {
+    font-size: 12px;
+}
+
+#main-button {
+    width: 90px;
+    height: 36px;
+    position: relative;
+    bottom: 8px;
+    left: 170px;
+    background-color: rgb(95,95,233);
+    float: right;
+}
+
+.overall {
+    width: 30vw;
+    margin: auto;
+}
+
+ul, li {
+    position: relative;
+    left: 20px;
+    display: inline-block;
+    list-style: none;
+    margin-right: 10px;
+    align-content: center;
+}
+
+img {
+    position: relative;
+    top: 5px;
+    width: 20px;
+    height: 20px;
+}
+
+#learn {
+    position: relative;
+    left: 200px;
+}
+
+#account {
+    position: relative;
+    left: 70px;
+}
+
+#form {
+    background-color: white;
+    border: 0.5px solid grey;
+    width: 430px;
+    height: 683px;
+}
+
+input {
+    width: 360px;
+    height: 30px;
+    position: relative;
+    left: 30px;
+}
+
+#email, #phone, #pass {
+    position: relative;
+    left: 30px;
+}
+
+#margin {
+    position: relative;
+    left: 30px;
+    font-size: 10px;
+}
+
+h1 {
+    position: relative;
+    color: gray;
+    font-family: monospace;
+    font-size: 35px;
+    text-align: center;
+    top: 20px;
+    left: 20px;
+}
+
+h2 {
+    text-align: center;
+}
+
+a {
+    font-size: 12px;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+#clicking {
+    text-align: center;
+    font-size: 12px;
+}
+
+#captcha {
+    text-align: center;
+    font-size: 12px;
+    
+}
+
+#button {
+    background-color: rgb(95, 95, 233);
+    width: 380px;
+    height: 50px;
+    position: relative;
+    left: 30px;
+}
+
+.bottom {
+    background-color: rgb(248, 242, 242);
+    align-items: center;
+    line-height: 40px;
+    position: relative;
+    top: 16px;
+}
+
+.bottom-after {
+    text-align: center;
+    color: gray;
+    font-family: sans-serif;
+    font-size: 12px;
+}
+
+#privacy {
+    background-color: grey;
+    float: right;
+    position: relative;
+    right: 60px;
+    width: 130px;
+    height: 40px;
+    color: white;
+    font-weight: bold;
+    background-color: rgb(99, 91, 91);
+}
